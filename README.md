@@ -1,4 +1,4 @@
-# Prediction-Using-Unsupervised-ML
+# Prediction-Using-supervised-ML
 
 This is Task1 for The Spark Foundation internship
 
